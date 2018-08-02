@@ -18,8 +18,8 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Subject.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Subject.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/liuyao/dynamic/Subject.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -35,79 +35,6 @@
             <state relative-caret-position="70">
               <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/com.liuyao.dynamic.DynamicMain" pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/com.liuyao.dynamic.DynamicMain">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.liuyao.dynamic.DynamicMain</OriginalElement>
-              <nodes>
-                <node x="445.40958333333333" y="111.0">com.liuyao.dynamic.RealSubject</node>
-                <node x="0.0" y="0.0">com.liuyao.dynamic.Subject</node>
-                <node x="249.16000000000003" y="411.0">com.liuyao.dynamic.DynamicMain</node>
-                <node x="72.54291666666671" y="222.0">com.liuyao.dynamic.MyHandler</node>
-                <node x="48.40958333333339" y="111.0">java.lang.reflect.InvocationHandler</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.liuyao.dynamic.DynamicMain" target="com.liuyao.dynamic.Subject">
-                  <point x="-87.19999999999996" y="-30.5" />
-                  <point x="270.96000000000004" y="391.0" />
-                  <point x="26.909583333333387" y="391.0" />
-                  <point x="26.909583333333387" y="86.0" />
-                  <point x="31.666666666666657" y="86.0" />
-                  <point x="-63.33333333333334" y="30.5" />
-                </edge>
-                <edge source="com.liuyao.dynamic.MyHandler" target="com.liuyao.dynamic.RealSubject">
-                  <point x="47.125" y="-69.5" />
-                  <point x="308.1679166666667" y="192.0" />
-                  <point x="469.15958333333333" y="192.0" />
-                  <point x="-71.25" y="30.5" />
-                </edge>
-                <edge source="com.liuyao.dynamic.DynamicMain" target="com.liuyao.dynamic.RealSubject">
-                  <point x="43.60000000000002" y="-30.5" />
-                  <point x="401.76000000000005" y="381.0" />
-                  <point x="564.1595833333333" y="381.0" />
-                  <point x="23.75" y="30.5" />
-                </edge>
-                <edge source="com.liuyao.dynamic.MyHandler" target="java.lang.reflect.InvocationHandler">
-                  <point x="-47.125" y="-69.5" />
-                  <point x="213.9179166666667" y="202.0" />
-                  <point x="236.9095833333334" y="202.0" />
-                  <point x="0.0" y="30.5" />
-                </edge>
-                <edge source="com.liuyao.dynamic.RealSubject" target="com.liuyao.dynamic.Subject">
-                  <point x="0.0" y="-30.5" />
-                  <point x="540.4095833333333" y="86.0" />
-                  <point x="158.33333333333334" y="86.0" />
-                  <point x="63.33333333333334" y="30.5" />
-                </edge>
-                <edge source="com.liuyao.dynamic.DynamicMain" target="com.liuyao.dynamic.MyHandler">
-                  <point x="0.0" y="-30.5" />
-                  <point x="358.16" y="391.0" />
-                  <point x="355.2929166666667" y="391.0" />
-                  <point x="94.25" y="69.5" />
-                </edge>
-                <edge source="com.liuyao.dynamic.MyHandler" target="com.liuyao.dynamic.Subject">
-                  <point x="-141.375" y="-69.5" />
-                  <point x="119.66791666666671" y="202.0" />
-                  <point x="37.90958333333339" y="202.0" />
-                  <point x="37.90958333333339" y="86.0" />
-                  <point x="95.0" y="86.0" />
-                  <point x="0.0" y="30.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="175.5" y="163.0" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -147,9 +74,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -168,6 +94,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,10 +127,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,16 +224,16 @@
       <updated>1533091575539</updated>
       <workItem from="1533091578382" duration="320000" />
       <workItem from="1533105089237" duration="3410000" />
-      <workItem from="1533110309472" duration="50000" />
+      <workItem from="1533110309472" duration="113000" />
+      <workItem from="1533173156645" duration="699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3780000" />
+    <option name="totallyTimeSpent" value="4542000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -317,20 +243,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3325893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1671875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33507308" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -356,6 +282,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/liuyao/dynamic/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuyao/dynamic/DynamicMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liuyao/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -388,7 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="704" column="59" lean-forward="false" selection-start-line="704" selection-start-column="42" selection-end-line="704" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -405,8 +346,8 @@
         <state relative-caret-position="385">
           <caret line="12" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="false" />
+            <element signature="e#201#202#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -560,7 +501,7 @@
               <point x="0.0" y="30.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="175.5" y="163.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="176.0" y="14.0" />
           <SelectedNodes />
           <Categories>
             <Category>Methods</Category>
