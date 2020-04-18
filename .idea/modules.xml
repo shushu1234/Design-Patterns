@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 SimpleFactory/01 SimpleFactory.iml" filepath="$PROJECT_DIR$/01 SimpleFactory/01 SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 FactoryMethod/02 FactoryMethod.iml" filepath="$PROJECT_DIR$/02 FactoryMethod/02 FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 AbstractFactory/03 AbstractFactory.iml" filepath="$PROJECT_DIR$/03 AbstractFactory/03 AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 Singleton/04 Singleton.iml" filepath="$PROJECT_DIR$/04 Singleton/04 Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Prototype/05 Prototype.iml" filepath="$PROJECT_DIR$/05 Prototype/05 Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Builder/06 Builder.iml" filepath="$PROJECT_DIR$/06 Builder/06 Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Decorator/07 Decorator.iml" filepath="$PROJECT_DIR$/07 Decorator/07 Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Strategy/08 Strategy.iml" filepath="$PROJECT_DIR$/08 Strategy/08 Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Observer/09 Observer.iml" filepath="$PROJECT_DIR$/09 Observer/09 Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Flyweight/10 Flyweight.iml" filepath="$PROJECT_DIR$/10 Flyweight/10 Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 Proxy/11 Proxy.iml" filepath="$PROJECT_DIR$/11 Proxy/11 Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 Facade/12 Facade.iml" filepath="$PROJECT_DIR$/12 Facade/12 Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 Composite/13 Composite.iml" filepath="$PROJECT_DIR$/13 Composite/13 Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14 Bridge/14 Bridge.iml" filepath="$PROJECT_DIR$/14 Bridge/14 Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15 Adapter/15 Adapter.iml" filepath="$PROJECT_DIR$/15 Adapter/15 Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16 Interpreter/16 Interpreter.iml" filepath="$PROJECT_DIR$/16 Interpreter/16 Interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17 Mediator/17 Mediator.iml" filepath="$PROJECT_DIR$/17 Mediator/17 Mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18 CoR/18 CoR.iml" filepath="$PROJECT_DIR$/18 CoR/18 CoR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19 Iterator/19 Iterator.iml" filepath="$PROJECT_DIR$/19 Iterator/19 Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20 TemplateMethod/20 TemplateMethod.iml" filepath="$PROJECT_DIR$/20 TemplateMethod/20 TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21 Memento/21 Memento.iml" filepath="$PROJECT_DIR$/21 Memento/21 Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22 State/22 State.iml" filepath="$PROJECT_DIR$/22 State/22 State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23 Command/23 Command.iml" filepath="$PROJECT_DIR$/23 Command/23 Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24 Visitor/24 Visitor.iml" filepath="$PROJECT_DIR$/24 Visitor/24 Visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns.iml" />
+    </modules>
+  </component>
+</project>
