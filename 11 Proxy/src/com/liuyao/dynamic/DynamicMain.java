@@ -8,7 +8,7 @@ public class DynamicMain {
     public static void main(String[] args) {
         RealSubject realSubject=new RealSubject();
         MyHandler myHandler=new MyHandler(realSubject);
-        Subject proxySubject =myHandler.creaetProxySubject();
+        Subject proxySubject =myHandler.createProxySubject();
         proxySubject.sellBook();
     }
 }

@@ -1,4 +1,4 @@
-package com.liuyao;
+package com.liuyao.common;
 
 /**
  * @author liuyao

@@ -15,7 +15,7 @@ public class MyHandler implements InvocationHandler {
         this.realSubject = realSubject;
     }
 
-    public Subject creaetProxySubject(){
+    public Subject createProxySubject(){
         return (Subject) Proxy.newProxyInstance(this.getClass().getClassLoader(),realSubject.getClass().getInterfaces(),this);
     }
 
