@@ -18,7 +18,7 @@ import java.util.List;
 public class Person implements Cloneable{
     private int age;
     private String name;
-    private List<String> firendsName;
+    private List<String> friendsName;
 
     /**
      * 浅克隆，对于引用，直接复制地址，不会新建对象，多个对象公用一个引用对象
@@ -40,13 +40,13 @@ public class Person implements Cloneable{
      */
     protected Person cloneDeep(){
         try {
-            Person person= (Person) super.clone();
+            Person person = (Person) super.clone();
 //            新建List对象
-            List<String > firends=new ArrayList<>();
-            for (String f:person.getFirendsName()) {
-                firends.add(f);
+            List<String> friends = new ArrayList<>();
+            for (String f : person.getFriendsName()) {
+                friends.add(f);
             }
-            person.setFirendsName(firends);
+            person.setFriendsName(friends);
             return person;
         } catch (CloneNotSupportedException e) {
             e.printStackTrace();
