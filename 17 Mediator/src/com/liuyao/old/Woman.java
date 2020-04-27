@@ -1,18 +1,18 @@
-package com.liuyao;
+package com.liuyao.old;
 
 /**
  * @author liuyao
  * @date 2018/08/04
  */
-public class Man extends Person {
+public class Woman extends Person{
 
-    public Man(String name, int age, Mediator mediator) {
+    public Woman(String name, int age, Mediator mediator) {
         super(name, age, mediator);
     }
 
     @Override
     public void getPartner(Person person) {
-        super.getMediator().setMan(this);
+        super.getMediator().setWoman(this);
         super.getMediator().getPartner(person);
     }
 }
